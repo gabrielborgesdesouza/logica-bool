@@ -1,0 +1,14 @@
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\bin\Debug\LogicaBool.exe.config
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\bin\Debug\LogicaBool.exe
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\bin\Debug\LogicaBool.pdb
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\MainWindow.g.cs
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\App.g.cs
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool_MarkupCompile.cache
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool_MarkupCompile.lref
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\MainWindow.baml
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool.g.resources
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool.Properties.Resources.resources
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool.csproj.GenerateResource.Cache
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool.exe
+C:\Users\gabriel\Desktop\visual studio\LogicaBool\LogicaBool\obj\Debug\LogicaBool.pdb
